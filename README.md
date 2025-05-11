@@ -1,4 +1,4 @@
-### 📊 Sobre mim
+### 👤 Sobre mim
 
 Me chamo Leonardo Lopes, tenho 22 anos e sou natural de Minas Gerais, porém moro em São Sebastião-SP. Concluí o ensino médio na ETEC, com o curso técnico em marketing. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFEOB. 
 
@@ -46,6 +46,13 @@ Me chamo Leonardo Lopes, tenho 22 anos e sou natural de Minas Gerais, porém mor
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+-------------------------------------------------------------
+
+### 📝 Informações extra
+
+- Inglês avançado (Wizard School).
+- Técnico em marketing.
 <br/>
 <br/>
 
